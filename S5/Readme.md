@@ -8,9 +8,6 @@
 * Analysis
 
 
-## Log
-
-
 ## Team
 K Bhargava Kiran 
 bhargav.kiran@gmail.com
