@@ -41,18 +41,19 @@
 * Analysis
 * After adding the GAP and removing the last BIG kernel the perameters are reduced to 8,212
 * The acuracy is increased
-* THe dropout rate is reduced to 0.15 which helps to reduce the overfitting. 
+* The dropout rate is reduced to 0.15 which helps to reduce the overfitting. 
 
 
 # S5 Step 5
 
-* Target: .
+* Target: Add rotation
 * Results
-* Parameters: 6,070
-* Best Train Accuracy: 98.58
-* Best Test Accuracy: 97.77
+* Parameters: 8,152
+* Best Train Accuracy: 98.84
+* Best Test Accuracy: 99.39
 * Analysis
-* After 
+* After using rotation the model is under fitting 
+* The dropout rate is reduced to 0.07 which helps to reduce the overfitting.
 
 
 
