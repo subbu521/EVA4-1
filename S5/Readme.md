@@ -3,8 +3,8 @@
 * Target: To make the model lighter
 * Results
 * Parameters: 10.7k
-* Best Train Accuracy: 98.95
-* Best Test Accuracy: 98.97
+* Best Train Accuracy: 99.00
+* Best Test Accuracy: 98.72
 * Analysis
 
 
