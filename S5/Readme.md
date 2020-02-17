@@ -16,6 +16,20 @@
 * Best Test Accuracy: 98.72
 * Analysis
 
+# S5 Step 3
+
+* Target: Add Batch-norm to increase model efficiency.
+* Results
+* Parameters: 10,970
+* Best Train Accuracy: 99.27
+* Best Test Accuracy: 99.17
+* Analysis
+
+
+
+
+
+
 ## Team
 K Bhargava Kiran 
 bhargav.kiran@gmail.com
