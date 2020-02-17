@@ -18,7 +18,7 @@
 
 # S5 Step 3
 
-* Target: Add Batch-norm to increase model efficiency.
+* Target: Add Dropouts.
 * Results
 * Parameters: 10,970
 * Best Train Accuracy: 99.27
