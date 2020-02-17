@@ -26,9 +26,34 @@
 * Analysis
 
 
+# S5 Step 3
+
+* Target: Add GAP and remove the last BIG kernel.
+* Results
+* Parameters: 10,970
+* Best Train Accuracy: 99.27
+* Best Test Accuracy: 99.17
+* Analysis
 
 
+# S5 Step 4
 
+* Target: Add GAP and remove the last BIG kernel.
+* Results
+* Parameters: 6,070
+* Best Train Accuracy: 98.58
+* Best Test Accuracy: 97.77
+* Analysis
+
+
+# S5 Step 5
+
+* Target: To achive 99.4 Acuracy.
+* Results
+* Parameters: 
+* Best Train Accuracy: 
+* Best Test Accuracy: 
+* Analysis
 
 ## Team
 K Bhargava Kiran 
